@@ -1,4 +1,7 @@
 # React + Vite
+#This is my first React app
+
+I made this following midudev's course
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
